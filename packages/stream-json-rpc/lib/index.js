@@ -1,0 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const rpcchannel_1 = require("./rpcchannel");
+exports.default = rpcchannel_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi9zcmMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSw2Q0FBc0M7QUFFdEMsa0JBQWUsb0JBQVUsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBycGNjaGFubmVsIGZyb20gJy4vcnBjY2hhbm5lbCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vdHlwZXMnO1xyXG5leHBvcnQgZGVmYXVsdCBycGNjaGFubmVsO1xyXG4iXX0=
