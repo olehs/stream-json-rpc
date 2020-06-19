@@ -1,5 +1,6 @@
 {
   "name": "stream-json-rpc-root",
+  "version": "1.0.14",
   "private": true,
   "scripts": {
     "test": "lerna run test",
